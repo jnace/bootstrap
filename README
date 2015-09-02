@@ -8,3 +8,4 @@ Perfect! That was done without any issues. Now I am making an edit directly thro
 I am writing this line just to see if `git pull` will get all the changes instead of having to use `git pull origin master`
 
 git pull worked fine. Now I want to submit a few commits to make the log graph a little more in depth
+Edit to add that I am also going to see if git push will work in the same way.
